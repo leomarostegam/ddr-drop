@@ -1,4 +1,3 @@
 {
-    "u":
-  "eyJjb21hbmRvIjoiYnJpZGdlIiwibG9jYWxQb3J0Ijo4NzY1LCJicmlkZ2VIVE1MIjoiYnJpZGdlX3BvYy5odG1sIn0="
-  }
+    "u": "eyJjb21hbmRvIjoiYnJpZGdlIiwibG9jYWxQb3J0Ijo4NzY1LCJicmlkZ2VIVE1MIjoiYnJpZGdlX2h0dHBzLmh0bWwifQ=="
+}
